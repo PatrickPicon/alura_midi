@@ -22,4 +22,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Um conjunto de teclas instrumentais para você explorar e tocar seu som da maneira que preferir!
 
-- [Visite o projeto online] (https://patrickpicon.github.io/mata_mosquito/)
+- [Visite o projeto online] (https://patrickpicon.github.io/alura_midi/)
